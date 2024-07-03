@@ -1,0 +1,152 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 873px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 65px;
+  margin-bottom: 51px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 392px;
+  background-image: url("images/retainer-adalah.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 392px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 21px 22px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0 76px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 76px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 7px 76px 0 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 443px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 23px 16px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 20px 88px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 7px 88px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 375px;
+  background-image: url("images/karang-gigi-adalah.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 750px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 323px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 365px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
